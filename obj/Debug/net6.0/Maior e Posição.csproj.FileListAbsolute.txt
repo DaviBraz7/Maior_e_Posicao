@@ -1,0 +1,15 @@
+C:\Users\davis\Documents\csharp\Maior e Posição\bin\Debug\net6.0\Maior e Posição.exe
+C:\Users\davis\Documents\csharp\Maior e Posição\bin\Debug\net6.0\Maior e Posição.deps.json
+C:\Users\davis\Documents\csharp\Maior e Posição\bin\Debug\net6.0\Maior e Posição.runtimeconfig.json
+C:\Users\davis\Documents\csharp\Maior e Posição\bin\Debug\net6.0\Maior e Posição.dll
+C:\Users\davis\Documents\csharp\Maior e Posição\bin\Debug\net6.0\Maior e Posição.pdb
+C:\Users\davis\Documents\csharp\Maior e Posição\obj\Debug\net6.0\Maior e Posição.csproj.AssemblyReference.cache
+C:\Users\davis\Documents\csharp\Maior e Posição\obj\Debug\net6.0\Maior e Posição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davis\Documents\csharp\Maior e Posição\obj\Debug\net6.0\Maior e Posição.AssemblyInfoInputs.cache
+C:\Users\davis\Documents\csharp\Maior e Posição\obj\Debug\net6.0\Maior e Posição.AssemblyInfo.cs
+C:\Users\davis\Documents\csharp\Maior e Posição\obj\Debug\net6.0\Maior e Posição.csproj.CoreCompileInputs.cache
+C:\Users\davis\Documents\csharp\Maior e Posição\obj\Debug\net6.0\Maior e Posição.dll
+C:\Users\davis\Documents\csharp\Maior e Posição\obj\Debug\net6.0\refint\Maior e Posição.dll
+C:\Users\davis\Documents\csharp\Maior e Posição\obj\Debug\net6.0\Maior e Posição.pdb
+C:\Users\davis\Documents\csharp\Maior e Posição\obj\Debug\net6.0\Maior e Posição.genruntimeconfig.cache
+C:\Users\davis\Documents\csharp\Maior e Posição\obj\Debug\net6.0\ref\Maior e Posição.dll
